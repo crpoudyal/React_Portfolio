@@ -37,7 +37,25 @@ function Skill(){
 		<strong>JavaScript(Js)</strong>
 		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
 		</div>
-		</div>	
+		</div>
+        <div class="skill-box">
+		<div class="s-box-icon">
+			<i class="fab fa-react"></i>
+		</div>
+		<div class="s-box-text">
+		<strong>React(Js Libary)</strong>
+		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
+		</div>
+		</div>
+        <div class="skill-box">
+		<div class="s-box-icon">
+			<i class="fab fa-php"></i>
+		</div>
+		<div class="s-box-text">
+		<strong>PHP</strong>
+		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
+		</div>
+		</div>		
 		</div>
 	</div>
 	<div class="skill-img">

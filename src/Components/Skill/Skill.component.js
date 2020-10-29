@@ -41,7 +41,7 @@ function Skill(){
 		</div>
 	</div>
 	<div class="skill-img">
-	<img src="images/skill2.png"/>	
+	<img src="%PUBLIC_URL%/Assets/images/skill2.png"/>	
 	</div>
 	</section>
     )

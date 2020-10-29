@@ -3,14 +3,14 @@ import './Banner.component.css';
 
 function Banner(){
     return(    
-	<div class="content">
-	<div class="model">
-		<img src="images/model.png"/>	
+	<div className="content">
+	<div className="model">
+		<img src="public/Assets/images/model.png"/>	
 	</div>
-	<div class="main-text">
+	<div className="main-text">
 		<h1>Hello, I am CR Poudyal</h1>
 		<p>"Developer" is a big tag, me CR poudyal as a Web|App Developer i am always ready for new challanges and journey of my development</p>
-		<a href="#" class="portfolio-btn">See My Portfolio</a>
+		<a href="#" className="portfolio-btn">See My Portfolio</a>
 	</div>
 	</div>
     )

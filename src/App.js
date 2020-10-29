@@ -1,6 +1,7 @@
 import React from 'react';
 import Banner from './Components/Banner/Banner.component';
 import Navbar from './Components/Navbar/Navbar.component';
+import Skill from './Components/Skill/Skill.component';
 
 
 function App(){
@@ -8,6 +9,7 @@ function App(){
         <>
      <Navbar />
      <Banner />
+     <Skill />
         </>
     );
 }

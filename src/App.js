@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar/Navbar.component';
 import Skill from './Components/Skill/Skill.component';
 import Project from './Components/Projects/Project.component';
 import Contact from './Components/Contact/Contact.component';
+import Footer from './Components/Footer/Footer.component';
 
 
 
@@ -16,6 +17,7 @@ function App(){
      <Skill />
      <Project />
      <Contact />
+     <Footer />
         </>
     );
 }

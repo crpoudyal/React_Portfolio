@@ -4,14 +4,14 @@ import './Project.component.css';
 function Project(){
     return(     
 	<section id="recent">
-	<div class="recent-heading">
+	<div className="recent-heading">
 	<span>Recent Project</span>
 	<h3>Recent ongoing Project</h3>
 	</div>
-	<div class="recent-img">
-		<img src="%PUBLIC_URL%/Assets/images/recent.png"/>	
+	<div className="recent-img">
+		<img src="%PUBLIC_URL%/images/recent.png"/>	
 	</div>
-	<a href="#" class="recent-btn">View Project</a>
+	<a href="#" className="recent-btn">View Project</a>
 	</section>
     )
 }

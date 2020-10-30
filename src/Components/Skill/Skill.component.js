@@ -5,60 +5,60 @@ import './Skill.component.css';
 function Skill(){
     return(
 	<section id="skills">
-	<div class="skill-text">
-		<div class="skill-heading">
+	<div className="skill-text">
+		<div className="skill-heading">
 		<span>My Skills</span>
 		<h2>My Experties</h2>
 		</div>
-		<div class="s-box-container">
-		<div class="skill-box">
-		<div class="s-box-icon">
-			<i class="fab fa-html5"></i>
+		<div className="s-box-container">
+		<div className="skill-box">
+		<div className="s-box-icon">
+			<i className="fab fa-html5"></i>
 		</div>
-		<div class="s-box-text">
+		<div className="s-box-text">
 		<strong>Hyper Text Markup Language(HTML)</strong>
 		<p>I have 3 years experience in HTML and i completed 100+ HTML project.</p>
 		</div>
 		</div>
-		<div class="skill-box">
-		<div class="s-box-icon">
-			<i class="fab fa-css3-alt"></i>
+		<div className="skill-box">
+		<div className="s-box-icon">
+			<i className="fab fa-css3-alt"></i>
 		</div>
-		<div class="s-box-text">
+		<div className="s-box-text">
 		<strong>Cascading Style Sheets(CSS)</strong>
 		<p>I have 3 years experience in CSS and i completed 100+ CSS project.</p>
 		</div>
 		</div>
-		<div class="skill-box">
-		<div class="s-box-icon">
-			<i class="fab fa-js-square"></i>
+		<div className="skill-box">
+		<div className="s-box-icon">
+			<i className="fab fa-js-square"></i>
 		</div>
-		<div class="s-box-text">
+		<div className="s-box-text">
 		<strong>JavaScript(Js)</strong>
 		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
 		</div>
 		</div>
-        <div class="skill-box">
-		<div class="s-box-icon">
-			<i class="fab fa-react"></i>
+        <div className="skill-box">
+		<div className="s-box-icon">
+			<i className="fab fa-react"></i>
 		</div>
-		<div class="s-box-text">
+		<div className="s-box-text">
 		<strong>React(Js Libary)</strong>
 		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
 		</div>
 		</div>
-        <div class="skill-box">
-		<div class="s-box-icon">
-			<i class="fab fa-php"></i>
+        <div className="skill-box">
+		<div className="s-box-icon">
+			<i className="fab fa-php"></i>
 		</div>
-		<div class="s-box-text">
+		<div className="s-box-text">
 		<strong>PHP</strong>
 		<p>I have 3 years experience in JavaScript and i completed 100+ Js project.</p>
 		</div>
 		</div>		
 		</div>
 	</div>
-	<div class="skill-img">
+	<div className="skill-img">
 	<img src="%PUBLIC_URL%/Assets/images/skill2.png"/>	
 	</div>
 	</section>

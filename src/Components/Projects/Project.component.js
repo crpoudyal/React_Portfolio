@@ -9,9 +9,9 @@ function Project(){
 	<h3>Recent ongoing Project</h3>
 	</div>
 	<div className="recent-img">
-		<img src="%PUBLIC_URL%/images/recent.png"/>	
+		<img src="/images/recent.png"/>	
 	</div>
-	<a href="#" className="recent-btn">View Project</a>
+	<a href="https://github.com/crpoudyal?tab=repositories" className="recent-btn">View Project</a>
 	</section>
     )
 }

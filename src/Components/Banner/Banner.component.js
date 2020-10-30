@@ -5,7 +5,7 @@ function Banner(){
     return(    
 	<div className="content">
 	<div className="model">
-		<img src="%PUBLIC_URL%/images/model.png" alt="Model.png"/>	
+		<img src="/images/model.png" alt="Model.png"/>	
 	</div>
 	<div className="main-text">
 		<h1>Hello, I am CR Poudyal</h1>

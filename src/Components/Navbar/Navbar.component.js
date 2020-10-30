@@ -6,7 +6,7 @@ function Navbar(){
     <section id="main">
         <nav>
             <a href="#" className="logo">
-              <img src="%PUBLIC_URL%/images/logo.png"/>	
+              <img src="/images/logo.png"/>	
             </a>
 		 <input className="menu-btn" type="checkbox" id="menu-btn" />
 		  <label className="menu-icon" htmlFor="menu-btn">

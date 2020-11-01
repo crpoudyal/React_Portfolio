@@ -18,7 +18,7 @@ function Navbar(){
             <li><a href="#recent">Recent Project</a></li>	
             <li><a href="#contact">Contact</a></li>	
 	     </ul>
-	        <a href="http://www.github.com/crpoudyal" className="hey">Github</a>
+	        <a href="https://www.instagram.com/rj_poudyal/" className="hey">Instagram</a>
 	   </nav>
     </section> 
     );

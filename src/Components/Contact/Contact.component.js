@@ -4,11 +4,11 @@ import './Contact.component.css';
 function Contact(){
     return(    
 	<section id="contact">
-	<img src="/images/contact.svg"/>
+	<img src="/images/contact.svg" alt="contact"/>
 	<h3>Get In Touch</h3>
 	<div className="contact-input">
 		<input type="email" placeholder="Example@gmail.com"/>
-		<a href="#">Continue</a>
+		<a href="#main">Continue</a>
 	</div>
 	</section>
     )

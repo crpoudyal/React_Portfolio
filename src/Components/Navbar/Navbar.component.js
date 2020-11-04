@@ -5,8 +5,8 @@ function Navbar(){
     return(  
     <section id="main">
         <nav>
-            <a href="#" className="logo">
-              <img src="/images/logo.png"/>	
+            <a href="#main" className="logo">
+              <img src="/images/logo.png" alt="logo"/>	
             </a>
 		 <input className="menu-btn" type="checkbox" id="menu-btn" />
 		  <label className="menu-icon" htmlFor="menu-btn">
